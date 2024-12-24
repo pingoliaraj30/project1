@@ -1,0 +1,67 @@
+/* General navbar styling */
+.custom-navbar {
+  background-color: #023d4f;
+  /* Dark teal background */
+  padding: 10px 0;
+}
+
+/* Logo styles */
+.logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #34d399;
+  /* Green text */
+  text-decoration: none;
+}
+
+.logo-left {
+  color: yellow;
+}
+
+.logo-right {
+  color: #34d399;
+  /* Green */
+}
+
+/* Nav link styles */
+.nav-link {
+  color: #fff !important;
+  /* White links */
+  margin-right: 15px;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-link:hover {
+  color: #34d399 !important;
+  /* Green on hover */
+}
+
+/* Buttons */
+.btn-outline-primary {
+  color: #fff;
+  border-color: #34d399;
+}
+
+.btn-outline-primary:hover {
+  background-color: #34d399;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #34d399;
+  border-color: #34d399;
+}
+
+.btn-primary:hover {
+  background-color: #28a87e;
+  border-color: #28a87e;
+}
+
+.navbar-nav {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  list-style: none;
+}

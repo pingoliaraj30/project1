@@ -1,0 +1,67 @@
+.about-us {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1200px;
+}
+
+.about-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.tech-images {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.tech-images img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.sub-title {
+  text-align: center;
+  font-size: 1.8rem;
+  margin: 30px 0;
+  color: #0073e6;
+}
+
+.about-section {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.text-image {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.text-image.reverse {
+  flex-direction: row-reverse;
+}
+
+.text-image img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.text-image h4 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.text-image p {
+  color: #555;
+}

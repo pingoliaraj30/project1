@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Ics",
+    "description": "Chips are single-chip processor for measuring.",
+    "image": "https://cdn.pixabay.com/photo/2010/12/16/16/49/board-3619_640.jpg",
+    "price": 120
+  },
+  {
+    "title": "Streaming Adapter",
+    "description": "Sensor chips are dies incorporating semiconductor.",
+    "image": "https://cdn.pixabay.com/photo/2020/11/08/06/49/semiconductor-5722983_640.jpg",
+    "price": 200
+  },
+  {
+    "title": "CTU Adapter ",
+    "description": "A selection of development tools available to assist the.",
+    "image": "https://cdn.pixabay.com/photo/2020/02/24/06/15/cable-4875316_640.jpg",
+    "price": 100
+  },
+  {
+    "title": "Basic Rotary Sensors",
+    "description": "The Type 3&4 CAM204 Development Board includes.",
+    "image": "https://cdn.pixabay.com/photo/2019/12/17/12/20/sony-4701535_640.jpg",
+    "price": 90
+  },
+  {
+    "title": "Short Stroke Linear",
+    "description": "For demonstration, test and development purpose, it is.",
+    "image": "https://media.istockphoto.com/id/139680532/photo/electronic-assembly.jpg?s=2048x2048&w=is&k=20&c=Fq4uLH6bmREHgDjQqOxpzHchECffgNWVayaQPmqIkM8=",
+    "price": 50
+  },
+  {
+    "title": "11mm E-Core Target",
+    "description": "CAM502 Development Board includes a high-speed.",
+    "image": "https://cdn.pixabay.com/photo/2020/11/08/06/52/resistance-5722984_640.jpg",
+    "price": 50
+  },
+  {
+    "title": "CAM204",
+    "description": "Targets mark moving parts, so their position can be sened.",
+    "image": "https://cdn.pixabay.com/photo/2020/02/24/06/15/cable-4875319_640.jpg",
+    "price": 50
+  },
+  {
+    "title": "Ultrasonic Sensor Module SG90",
+    "description": "AlphaCore Ultrasonic Sensor Module With SG90.",
+    "image": "https://media.istockphoto.com/id/1358895191/photo/ultrasonic-distance-sensor-and-micro-servo-project-showing-application-of-electrical.jpg?s=2048x2048&w=is&k=20&c=7Z2T0NahlKSIN4RxG_j2aIKaRmQKX3Kas17xEQy646M=",
+    "price": 50
+  },
+  {
+    "title": "Combo IR Proximity Sensor",
+    "description": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One.",
+    "image": "https://cdn.pixabay.com/photo/2023/09/21/14/45/chip-8266843_640.jpg",
+    "price": 50
+  },
+  {
+    "title": "Combo IR Proximity Sensor",
+    "description": "DHRUV-PRO Combo IR Proximity Sensor Or 5V One.",
+    "image": "https://cdn.pixabay.com/photo/2014/08/26/21/27/service-428538_640.jpg",
+    "price": 50
+  },
+  {
+    "title": "IR Infrared Sensor Modul kit",
+    "description": "APTECHDEALS IR Infrared Sensor Module Reflective.",
+    "image": "https://cdn.pixabay.com/photo/2015/09/25/10/02/computer-957001_640.jpg",
+    "price": 50
+  },
+  {
+    "title": "MFRC RC522 RFID RC522 RF IC Card",
+    "description": "Graphikum MFRC RC522 RFID-RC522 RF IC Card Reader.",
+    "image": "https://cdn.pixabay.com/photo/2022/02/05/23/57/graphics-card-6995934_640.jpg",
+    "price": 70
+  }
+]
